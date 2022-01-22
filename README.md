@@ -5,12 +5,12 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Mészáros Ferenc"
+        self.role = "Webfejlesztés"
+        self.language_spoken = ["hun", "en"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Eyo.")
 
 
 me = SoftwareEngineer()
