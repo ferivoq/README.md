@@ -5,7 +5,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Mészáros Ferenc"
+        self.name = "FeriVOQ"
         self.role = "Webfejlesztés"
         self.language_spoken = ["hun", "en"]
 
